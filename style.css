@@ -454,7 +454,7 @@ body {
     display: flex;
     flex-wrap: wrap; /* 允許換行 */
     justify-content: center;
-    gap: 1rem 1rem; /* 卡片之間的間距 */
+    gap: 0rem 1rem; /* 卡片之間的間距 */
     max-width: 700px; /* 限制寬度強制讓第 4, 5 張換行 */
     margin: 0 auto;
 }
@@ -486,6 +486,7 @@ body {
     transition: transform 0.2s;
     position: relative; /* 改為相對定位以啟用 z-index */
     z-index: 100; /* 確保高於卡片容器 */
+    margin: -2rem 0 0 0;
 }
 
     #closeDrawBtn:hover {
