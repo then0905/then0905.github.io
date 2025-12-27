@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>寶可夢卡包抽卡系統</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 首頁 -->
+    <div id="homePage" class="page active">
+        <div class="container">
+            <div class="hero">
+                <div class="sparkle-icon">✨</div>
+                <h1 class="main-title">寶可夢卡包</h1>
+                <p class="subtitle">開啟你的冒險之旅</p>
+            </div>
+
+            <div class="button-group">
+                <button class="btn btn-primary" onclick="showPage('loginPage')">
+                    <span class="icon">🔐</span>
+                    登入
+                </button>
+                <button class="btn btn-success" onclick="showPage('registerPage')">
+                    <span class="icon">👤</span>
+                    註冊
+                </button>
+            </div>
+
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>多種卡包</h3>
+                    <p>選擇你喜歡的主題卡包</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🏆</div>
+                    <h3>收集圖鑑</h3>
+                    <p>完成你的寶可夢收藏</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⭐</div>
+                    <h3>稀有卡片</h3>
+                    <p>追尋傳說級寶可夢</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 登入頁面 -->
+    <div id="loginPage" class="page">
+        <div class="container">
+            <button class="back-btn" onclick="showPage('homePage')">← 返回首頁</button>
+            <div class="form-container">
+                <h2>登入</h2>
+                <div class="form-group">
+                    <label>用戶名</label>
+                    <input type="text" id="loginUsername" placeholder="請輸入用戶名">
+                </div>
+                <div class="form-group">
+                    <label>密碼</label>
+                    <input type="password" id="loginPassword" placeholder="請輸入密碼">
+                </div>
+                <button class="btn btn-primary btn-full" onclick="handleLogin()">登入</button>
+                <p class="form-footer">
+                    還沒有帳號？
+                    <a href="#" onclick="showPage('registerPage'); return false;">立即註冊</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 註冊頁面 -->
+    <div id="registerPage" class="page">
+        <div class="container">
+            <button class="back-btn" onclick="showPage('homePage')">← 返回首頁</button>
+            <div class="form-container">
+                <h2>註冊</h2>
+                <div class="form-group">
+                    <label>用戶名</label>
+                    <input type="text" id="registerUsername" placeholder="請輸入用戶名">
+                </div>
+                <div class="form-group">
+                    <label>電子郵件</label>
+                    <input type="email" id="registerEmail" placeholder="請輸入電子郵件">
+                </div>
+                <div class="form-group">
+                    <label>密碼</label>
+                    <input type="password" id="registerPassword" placeholder="請輸入密碼">
+                </div>
+                <button class="btn btn-success btn-full" onclick="handleRegister()">註冊</button>
+                <p class="form-footer">
+                    已有帳號？
+                    <a href="#" onclick="showPage('loginPage'); return false;">立即登入</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 卡包選擇頁面 -->
+    <div id="packsPage" class="page">
+        <div class="container">
+            <div class="header">
+                <div>
+                    <h2>歡迎回來，<span id="username"></span>！</h2>
+                    <p class="header-subtitle">選擇你的卡包開始冒險</p>
+                </div>
+                <button class="btn btn-danger" onclick="handleLogout()">登出</button>
+            </div>
+
+            <div class="packs-grid" id="packsGrid">
+                <!-- 卡包會由 JS 動態生成 -->
+            </div>
+
+            <div class="collection-container" id="collectionContainer" style="display: none;">
+                <h3>我的卡包收藏</h3>
+                <div id="collectionList"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="drawOverlay" class="draw-overlay" style="display:none;">
+        <div class="cards-container" id="cardsContainer">
+        </div>
+        <button id="closeDrawBtn" style="display:none;" onclick="closeDrawOverlay()">收下卡片</button>
+    </div>
+
+    <script src="app.js"></script>
+    <script src="CardData.js"></script>
+</body>
+</html>

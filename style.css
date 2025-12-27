@@ -1,0 +1,529 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(135deg, #e0f2fe 0%, #f3e8ff 50%, #fce7f3 100%);
+    min-height: 100vh;
+    padding: 2rem;
+    background-image: url(./Image/Background_1.jpg);
+    background-size: cover; /* fill / contain / cover */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* 頁面切換 */
+.page {
+    display: none;
+    animation: fadeIn 0.3s ease-in;
+}
+
+    .page.active {
+        display: block;
+    }
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 首頁樣式 */
+.hero {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.sparkle-icon {
+    font-size: 5rem;
+    animation: pulse 2s ease-in-out infinite;
+    margin-bottom: 1rem;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    50% {
+        transform: scale(1.1);
+        opacity: 0.8;
+    }
+}
+
+.main-title {
+    font-size: 4rem;
+    font-weight: bold;
+    background: linear-gradient(90deg, #2563eb, #9333ea, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 1rem;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    color: #6b7280;
+}
+
+/* 按鈕樣式 */
+.button-group {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin: 3rem 0;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 2rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 0.75rem;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    .btn:hover {
+        transform: scale(1.05);
+        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+
+.btn-primary {
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+    color: white;
+}
+
+.btn-success {
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: white;
+}
+
+.btn-danger {
+    background: linear-gradient(135deg, #ef4444, #dc2626);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+}
+
+.btn-full {
+    width: 100%;
+}
+
+.icon {
+    font-size: 1.5rem;
+}
+
+/* 特色卡片 */
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 4rem;
+}
+
+.feature-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    transition: transform 0.2s;
+}
+
+    .feature-card:hover {
+        transform: translateY(-5px);
+    }
+
+.feature-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.feature-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #1f2937;
+}
+
+.feature-card p {
+    color: #6b7280;
+}
+
+/* 表單樣式 */
+.back-btn {
+    background: none;
+    border: none;
+    color: #2563eb;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-bottom: 1.5rem;
+    transition: color 0.2s;
+}
+
+    .back-btn:hover {
+        color: #1d4ed8;
+    }
+
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    background: white;
+    padding: 2.5rem;
+    border-radius: 1.5rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+    .form-container h2 {
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 2rem;
+        color: #1f2937;
+    }
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+    .form-group label {
+        display: block;
+        font-size: 0.875rem;
+        font-weight: 500;
+        margin-bottom: 0.5rem;
+        color: #374151;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 0.875rem 1rem;
+        font-size: 1rem;
+        border: 2px solid #e5e7eb;
+        border-radius: 0.5rem;
+        transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+
+.form-footer {
+    text-align: center;
+    margin-top: 1.5rem;
+    color: #6b7280;
+}
+
+    .form-footer a {
+        color: #2563eb;
+        font-weight: 600;
+        text-decoration: none;
+        margin-left: 0.5rem;
+    }
+
+        .form-footer a:hover {
+            text-decoration: underline;
+        }
+
+/* 卡包頁面 */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+    .header h2 {
+        font-size: 2rem;
+        color: #1f2937;
+    }
+
+.header-subtitle {
+    color: #6b7280;
+    margin-top: 0.5rem;
+}
+
+/* 卡包網格 */
+.packs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.pack-card {
+    padding: 2rem;
+    border-radius: 1.5rem;
+    color: white;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: transform 0.2s;
+    background-size: contain;
+    width: 284px;
+    height: 500px;
+}
+
+    .pack-card:hover {
+        transform: scale(1.05);
+    }
+
+    .pack-card.red {
+        background: linear-gradient(135deg, #f87171, #dc2626);
+    }
+
+    .pack-card.purple {
+        background: linear-gradient(135deg, #c084fc, #9333ea);
+    }
+
+    .pack-card.orange {
+        background: linear-gradient(135deg, #fbbf24, #f97316);
+    }
+
+    .pack-card.blue {
+        background: linear-gradient(135deg, #60a5fa, #4f46e5);
+    }
+
+.pack-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-bottom: 1.5rem;
+}
+
+.pack-info h3 {
+    font-size: 1.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.pack-info p {
+    font-size: 0.875rem;
+    opacity: 0.9;
+}
+
+.pack-icon {
+    font-size: 3rem;
+}
+
+.pack-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.pack-rarity {
+    font-size: 1.125rem;
+}
+
+.pack-btn {
+    background: white;
+    color: #1f2937;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+    .pack-btn:hover {
+        background: #f3f4f6;
+    }
+
+/* 收藏容器 */
+.collection-container {
+    background: white;
+    padding: 2rem;
+    border-radius: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 2rem;
+}
+
+    .collection-container h3 {
+        font-size: 1.75rem;
+        margin-bottom: 1.5rem;
+        color: #1f2937;
+    }
+
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    background: #f9fafb;
+    border-radius: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.collection-item-info {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.collection-item-name {
+    font-weight: 600;
+    color: #1f2937;
+}
+
+.collection-item-date {
+    font-size: 0.875rem;
+    color: #6b7280;
+}
+
+.collection-item-rarity {
+    color: #6b7280;
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+    body {
+        padding: 1rem;
+    }
+
+    .main-title {
+        font-size: 2.5rem;
+    }
+
+    .subtitle {
+        font-size: 1.125rem;
+    }
+
+    .button-group {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .feature-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .packs-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .collection-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .form-container {
+        padding: 1.5rem;
+    }
+}
+.draw-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+/* 放置五張卡片的容器 */
+.cards-container {
+    display: flex;
+    flex-wrap: wrap; /* 允許換行 */
+    justify-content: center;
+    gap: 125px 65px; /* 卡片之間的間距 */
+    max-width: 700px; /* 限制寬度強制讓第 4, 5 張換行 */
+    margin: 0 auto;
+}
+
+/* 翻牌動畫邏輯 (搭配 JS 切換 .flipped) */
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d;
+}
+
+.card.flipped .card-inner {
+    transform: rotateY(180deg) scale(1.1); /* 翻轉時稍微放大 */
+}
+
+/* 收下卡片按鈕 */
+#closeDrawBtn {
+    padding: 12px 40px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    background-color: #ffcb05;
+    color: #2a75bb;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    /* 這裡不需要 position: absolute，Flex 會幫你排好 */
+    transition: transform 0.2s;
+    position: relative; /* 改為相對定位以啟用 z-index */
+    z-index: 100; /* 確保高於卡片容器 */
+}
+
+    #closeDrawBtn:hover {
+        transform: scale(1.05);
+    }
+
+.card-item {
+    perspective: 1000px;
+    width: 150px;
+    height: 210px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.card-item.flipped .card-inner {
+    transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 10px;
+}
+
+.card-front {
+    transform: rotateY(180deg);
+}
+#card {
+    width: 8rem;
+    height: 12rem;
+}

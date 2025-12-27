@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "card_1",
+    "probability": 1
+  },
+  {
+    "id": "card_2",
+    "probability": 1
+  },
+  {
+    "id": "card_3",
+    "probability": 1
+  },
+  {
+    "id": "card_4",
+    "probability": 1
+  },
+  {
+    "id": "card_5",
+    "probability": 1
+  },
+  {
+    "id": "card_6",
+    "probability": 1
+  },
+  {
+    "id": "card_7",
+    "probability": 0.5
+  },
+  {
+    "id": "card_8",
+    "probability": 1
+  },
+  {
+    "id": "card_9",
+    "probability": 1
+  },
+  {
+    "id": "card_10",
+    "probability": 1
+  },
+  {
+    "id": "card_11",
+    "probability": 1
+  },
+  {
+    "id": "card_12",
+    "probability": 1
+  },
+  {
+    "id": "card_13",
+    "probability": 1
+  },
+  {
+    "id": "card_14",
+    "probability": 1
+  },
+  {
+    "id": "card_15",
+    "probability": 1
+  },
+  {
+    "id": "card_16",
+    "probability": 1
+  },
+  {
+    "id": "card_17",
+    "probability": 1
+  },
+  {
+    "id": "card_18",
+    "probability": 1
+  },
+  {
+    "id": "card_19",
+    "probability": 1
+  },
+  {
+    "id": "card_20",
+    "probability": 1
+  },
+  {
+    "id": "card_21",
+    "probability": 1
+  },
+  {
+    "id": "card_22",
+    "probability": 1
+  },
+  {
+    "id": "card_23",
+    "probability": 1
+  },
+  {
+    "id": "card_24",
+    "probability": 1
+  },
+  {
+    "id": "card_25",
+    "probability": 1
+  },
+  {
+    "id": "card_26",
+    "probability": 1
+  },
+  {
+    "id": "card_27",
+    "probability": 1
+  },
+  {
+    "id": "card_28",
+    "probability": 1
+  },
+  {
+    "id": "card_29",
+    "probability": 1
+  },
+  {
+    "id": "card_30",
+    "probability": 1
+  },
+  {
+    "id": "card_31",
+    "probability": 1
+  },
+  {
+    "id": "card_32",
+    "probability": 1
+  },
+  {
+    "id": "card_33",
+    "probability": 1
+  },
+  {
+    "id": "card_34",
+    "probability": 1
+  },
+  {
+    "id": "card_35",
+    "probability": 1
+  },
+  {
+    "id": "card_36",
+    "probability": 1
+  },
+  {
+    "id": "card_37",
+    "probability": 1
+  },
+  {
+    "id": "card_38",
+    "probability": 1
+  },
+  {
+    "id": "card_39",
+    "probability": 1
+  },
+  {
+    "id": "card_40",
+    "probability": 1
+  },
+  {
+    "id": "card_41",
+    "probability": 1
+  },
+  {
+    "id": "card_42",
+    "probability": 1
+  },
+  {
+    "id": "card_43",
+    "probability": 1
+  },
+  {
+    "id": "card_44",
+    "probability": 1
+  },
+  {
+    "id": "card_45",
+    "probability": 1
+  },
+  {
+    "id": "card_46",
+    "probability": 1
+  },
+  {
+    "id": "card_47",
+    "probability": 0.5
+  },
+  {
+    "id": "card_48",
+    "probability": 1
+  },
+  {
+    "id": "card_49",
+    "probability": 1
+  },
+  {
+    "id": "card_50",
+    "probability": 1
+  },
+  {
+    "id": "card_51",
+    "probability": 1
+  },
+  {
+    "id": "card_52",
+    "probability": 1
+  },
+  {
+    "id": "card_53",
+    "probability": 1
+  },
+  {
+    "id": "card_54",
+    "probability": 1
+  },
+  {
+    "id": "card_55",
+    "probability": 1
+  },
+  {
+    "id": "card_56",
+    "probability": 1
+  },
+  {
+    "id": "card_57",
+    "probability": 0.5
+  },
+  {
+    "id": "card_58",
+    "probability": 1
+  },
+  {
+    "id": "card_59",
+    "probability": 1
+  },
+  {
+    "id": "card_60",
+    "probability": 1
+  },
+  {
+    "id": "card_61",
+    "probability": 1
+  },
+  {
+    "id": "card_62",
+    "probability": 1
+  },
+  {
+    "id": "card_63",
+    "probability": 1
+  },
+  {
+    "id": "card_64",
+    "probability": 1
+  },
+  {
+    "id": "card_65",
+    "probability": 1
+  },
+  {
+    "id": "card_66",
+    "probability": 1
+  },
+  {
+    "id": "card_67",
+    "probability": 1
+  },
+  {
+    "id": "card_68",
+    "probability": 1
+  },
+  {
+    "id": "card_69",
+    "probability": 1
+  },
+  {
+    "id": "card_70",
+    "probability": 1
+  },
+  {
+    "id": "card_71",
+    "probability": 1
+  },
+  {
+    "id": "card_72",
+    "probability": 1
+  },
+  {
+    "id": "card_73",
+    "probability": 1
+  },
+  {
+    "id": "card_74",
+    "probability": 1
+  },
+  {
+    "id": "card_75",
+    "probability": 1
+  },
+  {
+    "id": "card_76",
+    "probability": 1
+  },
+  {
+    "id": "card_77",
+    "probability": 1
+  },
+  {
+    "id": "card_78",
+    "probability": 1
+  },
+  {
+    "id": "card_79",
+    "probability": 0.5
+  },
+  {
+    "id": "card_80",
+    "probability": 1
+  },
+  {
+    "id": "card_81",
+    "probability": 1
+  },
+  {
+    "id": "card_82",
+    "probability": 1
+  },
+  {
+    "id": "card_83",
+    "probability": 0.5
+  },
+  {
+    "id": "card_84",
+    "probability": 1
+  },
+  {
+    "id": "card_85",
+    "probability": 1
+  },
+  {
+    "id": "card_86",
+    "probability": 1
+  },
+  {
+    "id": "card_87",
+    "probability": 1
+  },
+  {
+    "id": "card_88",
+    "probability": 1
+  },
+  {
+    "id": "card_89",
+    "probability": 1
+  },
+  {
+    "id": "card_90",
+    "probability": 1
+  },
+  {
+    "id": "card_91",
+    "probability": 1
+  },
+  {
+    "id": "card_92",
+    "probability": 1
+  },
+  {
+    "id": "card_93",
+    "probability": 1
+  },
+  {
+    "id": "card_94",
+    "probability": 1
+  },
+  {
+    "id": "card_95",
+    "probability": 1
+  },
+  {
+    "id": "card_96",
+    "probability": 0.5
+  },
+  {
+    "id": "card_97",
+    "probability": 1
+  },
+  {
+    "id": "card_98",
+    "probability": 1
+  },
+  {
+    "id": "card_99",
+    "probability": 1
+  },
+  {
+    "id": "card_100",
+    "probability": 1
+  },
+  {
+    "id": "card_101",
+    "probability": 1
+  },
+  {
+    "id": "card_102",
+    "probability": 1
+  },
+  {
+    "id": "card_103",
+    "probability": 1
+  },
+  {
+    "id": "card_104",
+    "probability": 1
+  },
+  {
+    "id": "card_105",
+    "probability": 1
+  },
+  {
+    "id": "card_106",
+    "probability": 1
+  },
+  {
+    "id": "card_107",
+    "probability": 1
+  },
+  {
+    "id": "card_108",
+    "probability": 1
+  },
+  {
+    "id": "card_109",
+    "probability": 1
+  },
+  {
+    "id": "card_110",
+    "probability": 1
+  },
+  {
+    "id": "card_111",
+    "probability": 1
+  },
+  {
+    "id": "card_112",
+    "probability": 1
+  },
+  {
+    "id": "card_113",
+    "probability": 1
+  },
+  {
+    "id": "card_114",
+    "probability": 1
+  },
+  {
+    "id": "card_115",
+    "probability": 1
+  },
+  {
+    "id": "card_116",
+    "probability": 1
+  },
+  {
+    "id": "card_117",
+    "probability": 1
+  },
+  {
+    "id": "card_118",
+    "probability": 0.5
+  },
+  {
+    "id": "card_119",
+    "probability": 1
+  },
+  {
+    "id": "card_120",
+    "probability": 1
+  },
+  {
+    "id": "card_121",
+    "probability": 1
+  },
+  {
+    "id": "card_122",
+    "probability": 1
+  },
+  {
+    "id": "card_123",
+    "probability": 1
+  },
+  {
+    "id": "card_124",
+    "probability": 1
+  },
+  {
+    "id": "card_125",
+    "probability": 1
+  },
+  {
+    "id": "card_126",
+    "probability": 1
+  },
+  {
+    "id": "card_127",
+    "probability": 1
+  },
+  {
+    "id": "card_128",
+    "probability": 1
+  },
+  {
+    "id": "card_129",
+    "probability": 1
+  },
+  {
+    "id": "card_130",
+    "probability": 1
+  },
+  {
+    "id": "card_131",
+    "probability": 0.5
+  },
+  {
+    "id": "card_132",
+    "probability": 1
+  },
+  {
+    "id": "card_133",
+    "probability": 1
+  },
+  {
+    "id": "card_134",
+    "probability": 1
+  },
+  {
+    "id": "card_135",
+    "probability": 0.5
+  },
+  {
+    "id": "card_136",
+    "probability": 1
+  },
+  {
+    "id": "card_137",
+    "probability": 1
+  },
+  {
+    "id": "card_138",
+    "probability": 1
+  },
+  {
+    "id": "card_139",
+    "probability": 1
+  },
+  {
+    "id": "card_140",
+    "probability": 1
+  },
+  {
+    "id": "card_141",
+    "probability": 1
+  },
+  {
+    "id": "card_142",
+    "probability": 1
+  },
+  {
+    "id": "card_143",
+    "probability": 1
+  },
+  {
+    "id": "card_144",
+    "probability": 1
+  },
+  {
+    "id": "card_145",
+    "probability": 1
+  },
+  {
+    "id": "card_146",
+    "probability": 1
+  },
+  {
+    "id": "card_147",
+    "probability": 1
+  },
+  {
+    "id": "card_148",
+    "probability": 1
+  },
+  {
+    "id": "card_149",
+    "probability": 1
+  },
+  {
+    "id": "card_150",
+    "probability": 1
+  },
+  {
+    "id": "card_151",
+    "probability": 0.5
+  },
+  {
+    "id": "card_152",
+    "probability": 1
+  },
+  {
+    "id": "card_153",
+    "probability": 1
+  },
+  {
+    "id": "card_154",
+    "probability": 1
+  },
+  {
+    "id": "card_155",
+    "probability": 1
+  },
+  {
+    "id": "card_156",
+    "probability": 1
+  },
+  {
+    "id": "card_157",
+    "probability": 1
+  },
+  {
+    "id": "card_158",
+    "probability": 0.5
+  },
+  {
+    "id": "card_159",
+    "probability": 1
+  },
+  {
+    "id": "card_160",
+    "probability": 1
+  },
+  {
+    "id": "card_161",
+    "probability": 1
+  },
+  {
+    "id": "card_162",
+    "probability": 1
+  },
+  {
+    "id": "card_163",
+    "probability": 1
+  },
+  {
+    "id": "card_164",
+    "probability": 1
+  },
+  {
+    "id": "card_165",
+    "probability": 0.5
+  },
+  {
+    "id": "card_166",
+    "probability": 1
+  },
+  {
+    "id": "card_167",
+    "probability": 1
+  },
+  {
+    "id": "card_168",
+    "probability": 1
+  },
+  {
+    "id": "card_169",
+    "probability": 1
+  },
+  {
+    "id": "card_170",
+    "probability": 1
+  },
+  {
+    "id": "card_171",
+    "probability": 1
+  },
+  {
+    "id": "card_172",
+    "probability": 1
+  },
+  {
+    "id": "card_173",
+    "probability": 1
+  },
+  {
+    "id": "card_174",
+    "probability": 1
+  },
+  {
+    "id": "card_175",
+    "probability": 1
+  },
+  {
+    "id": "card_176",
+    "probability": 1
+  },
+  {
+    "id": "card_177",
+    "probability": 1
+  },
+  {
+    "id": "card_178",
+    "probability": 1
+  },
+  {
+    "id": "card_179",
+    "probability": 1
+  },
+  {
+    "id": "card_180",
+    "probability": 1
+  },
+  {
+    "id": "card_181",
+    "probability": 1
+  },
+  {
+    "id": "card_182",
+    "probability": 1
+  },
+  {
+    "id": "card_183",
+    "probability": 1
+  },
+  {
+    "id": "card_184",
+    "probability": 1
+  },
+  {
+    "id": "card_185",
+    "probability": 1
+  },
+  {
+    "id": "card_186",
+    "probability": 1
+  },
+  {
+    "id": "card_187",
+    "probability": 0.5
+  },
+  {
+    "id": "card_188",
+    "probability": 1
+  },
+  {
+    "id": "card_189",
+    "probability": 1
+  },
+  {
+    "id": "card_190",
+    "probability": 1
+  },
+  {
+    "id": "card_191",
+    "probability": 1
+  },
+  {
+    "id": "card_192",
+    "probability": 1
+  },
+  {
+    "id": "card_193",
+    "probability": 1
+  },
+  {
+    "id": "card_194",
+    "probability": 1
+  },
+  {
+    "id": "card_195",
+    "probability": 1
+  },
+  {
+    "id": "card_196",
+    "probability": 1
+  },
+  {
+    "id": "card_197",
+    "probability": 0.5
+  },
+  {
+    "id": "card_198",
+    "probability": 1
+  },
+  {
+    "id": "card_199",
+    "probability": 1
+  },
+  {
+    "id": "card_200",
+    "probability": 1
+  },
+  {
+    "id": "card_201",
+    "probability": 1
+  },
+  {
+    "id": "card_202",
+    "probability": 1
+  },
+  {
+    "id": "card_203",
+    "probability": 1
+  },
+  {
+    "id": "card_204",
+    "probability": 1
+  },
+  {
+    "id": "card_205",
+    "probability": 1
+  },
+  {
+    "id": "card_206",
+    "probability": 1
+  },
+  {
+    "id": "card_207",
+    "probability": 1
+  },
+  {
+    "id": "card_208",
+    "probability": 1
+  },
+  {
+    "id": "card_209",
+    "probability": 1
+  },
+  {
+    "id": "card_210",
+    "probability": 1
+  },
+  {
+    "id": "card_211",
+    "probability": 1
+  },
+  {
+    "id": "card_212",
+    "probability": 1
+  },
+  {
+    "id": "card_213",
+    "probability": 1
+  },
+  {
+    "id": "card_214",
+    "probability": 1
+  },
+  {
+    "id": "card_215",
+    "probability": 1
+  },
+  {
+    "id": "card_216",
+    "probability": 1
+  },
+  {
+    "id": "card_217",
+    "probability": 1
+  },
+  {
+    "id": "card_218",
+    "probability": 1
+  },
+  {
+    "id": "card_219",
+    "probability": 1
+  },
+  {
+    "id": "card_220",
+    "probability": 1
+  },
+  {
+    "id": "card_221",
+    "probability": 1
+  },
+  {
+    "id": "card_222",
+    "probability": 1
+  },
+  {
+    "id": "card_223",
+    "probability": 1
+  },
+  {
+    "id": "card_224",
+    "probability": 1
+  },
+  {
+    "id": "card_225",
+    "probability": 1
+  },
+  {
+    "id": "card_226",
+    "probability": 1
+  },
+  {
+    "id": "card_227",
+    "probability": 1
+  },
+  {
+    "id": "card_228",
+    "probability": 1
+  },
+  {
+    "id": "card_229",
+    "probability": 1
+  },
+  {
+    "id": "card_230",
+    "probability": 1
+  },
+  {
+    "id": "card_231",
+    "probability": 1
+  },
+  {
+    "id": "card_232",
+    "probability": 1
+  },
+  {
+    "id": "card_233",
+    "probability": 1
+  },
+  {
+    "id": "card_234",
+    "probability": 1
+  },
+  {
+    "id": "card_235",
+    "probability": 1
+  },
+  {
+    "id": "card_236",
+    "probability": 1
+  },
+  {
+    "id": "card_237",
+    "probability": 1
+  },
+  {
+    "id": "card_238",
+    "probability": 1
+  },
+  {
+    "id": "card_239",
+    "probability": 1
+  },
+  {
+    "id": "card_240",
+    "probability": 0.5
+  },
+  {
+    "id": "card_241",
+    "probability": 1
+  },
+  {
+    "id": "card_242",
+    "probability": 1
+  },
+  {
+    "id": "card_243",
+    "probability": 1
+  },
+  {
+    "id": "card_244",
+    "probability": 0.5
+  },
+  {
+    "id": "card_245",
+    "probability": 1
+  },
+  {
+    "id": "card_246",
+    "probability": 1
+  },
+  {
+    "id": "card_247",
+    "probability": 1
+  },
+  {
+    "id": "card_248",
+    "probability": 0.5
+  },
+  {
+    "id": "card_249",
+    "probability": 1
+  },
+  {
+    "id": "card_250",
+    "probability": 1
+  },
+  {
+    "id": "card_251",
+    "probability": 1
+  },
+  {
+    "id": "card_252",
+    "probability": 1
+  },
+  {
+    "id": "card_253",
+    "probability": 1
+  },
+  {
+    "id": "card_254",
+    "probability": 1
+  },
+  {
+    "id": "card_255",
+    "probability": 1
+  },
+  {
+    "id": "card_256",
+    "probability": 1
+  },
+  {
+    "id": "card_257",
+    "probability": 1
+  },
+  {
+    "id": "card_258",
+    "probability": 1
+  },
+  {
+    "id": "card_259",
+    "probability": 1
+  },
+  {
+    "id": "card_260",
+    "probability": 1
+  },
+  {
+    "id": "card_261",
+    "probability": 1
+  },
+  {
+    "id": "card_262",
+    "probability": 1
+  },
+  {
+    "id": "card_263",
+    "probability": 1
+  },
+  {
+    "id": "card_264",
+    "probability": 1
+  },
+  {
+    "id": "card_265",
+    "probability": 1
+  },
+  {
+    "id": "card_266",
+    "probability": 1
+  },
+  {
+    "id": "card_267",
+    "probability": 0.5
+  },
+  {
+    "id": "card_268",
+    "probability": 1
+  },
+  {
+    "id": "card_269",
+    "probability": 1
+  },
+  {
+    "id": "card_270",
+    "probability": 1
+  },
+  {
+    "id": "card_271",
+    "probability": 1
+  },
+  {
+    "id": "card_272",
+    "probability": 1
+  },
+  {
+    "id": "card_273",
+    "probability": 1
+  },
+  {
+    "id": "card_274",
+    "probability": 1
+  },
+  {
+    "id": "card_275",
+    "probability": 1
+  },
+  {
+    "id": "card_276",
+    "probability": 1
+  },
+  {
+    "id": "card_277",
+    "probability": 1
+  },
+  {
+    "id": "card_278",
+    "probability": 1
+  },
+  {
+    "id": "card_279",
+    "probability": 1
+  },
+  {
+    "id": "card_280",
+    "probability": 1
+  },
+  {
+    "id": "card_281",
+    "probability": 1
+  },
+  {
+    "id": "card_282",
+    "probability": 1
+  },
+  {
+    "id": "card_283",
+    "probability": 1
+  },
+  {
+    "id": "card_284",
+    "probability": 1
+  },
+  {
+    "id": "card_285",
+    "probability": 1
+  },
+  {
+    "id": "card_286",
+    "probability": 1
+  },
+  {
+    "id": "card_287",
+    "probability": 1
+  },
+  {
+    "id": "card_288",
+    "probability": 1
+  },
+  {
+    "id": "card_289",
+    "probability": 1
+  },
+  {
+    "id": "card_290",
+    "probability": 1
+  },
+  {
+    "id": "card_291",
+    "probability": 1
+  },
+  {
+    "id": "card_292",
+    "probability": 0.5
+  },
+  {
+    "id": "card_293",
+    "probability": 1
+  },
+  {
+    "id": "card_294",
+    "probability": 1
+  },
+  {
+    "id": "card_295",
+    "probability": 1
+  },
+  {
+    "id": "card_296",
+    "probability": 0.5
+  },
+  {
+    "id": "card_297",
+    "probability": 1
+  },
+  {
+    "id": "card_298",
+    "probability": 1
+  },
+  {
+    "id": "card_299",
+    "probability": 1
+  },
+  {
+    "id": "card_300",
+    "probability": 0.5
+  },
+  {
+    "id": "card_301",
+    "probability": 1
+  },
+  {
+    "id": "card_302",
+    "probability": 1
+  },
+  {
+    "id": "card_303",
+    "probability": 1
+  },
+  {
+    "id": "card_304",
+    "probability": 1
+  },
+  {
+    "id": "card_305",
+    "probability": 1
+  },
+  {
+    "id": "card_306",
+    "probability": 1
+  },
+  {
+    "id": "card_307",
+    "probability": 1
+  },
+  {
+    "id": "card_308",
+    "probability": 1
+  },
+  {
+    "id": "card_309",
+    "probability": 1
+  },
+  {
+    "id": "card_310",
+    "probability": 1
+  },
+  {
+    "id": "card_311",
+    "probability": 1
+  },
+  {
+    "id": "card_312",
+    "probability": 1
+  },
+  {
+    "id": "card_313",
+    "probability": 0.5
+  },
+  {
+    "id": "card_314",
+    "probability": 1
+  },
+  {
+    "id": "card_315",
+    "probability": 1
+  },
+  {
+    "id": "card_316",
+    "probability": 1
+  },
+  {
+    "id": "card_317",
+    "probability": 1
+  },
+  {
+    "id": "card_318",
+    "probability": 1
+  },
+  {
+    "id": "card_319",
+    "probability": 1
+  },
+  {
+    "id": "card_320",
+    "probability": 0.5
+  },
+  {
+    "id": "card_321",
+    "probability": 1
+  },
+  {
+    "id": "card_322",
+    "probability": 1
+  },
+  {
+    "id": "card_323",
+    "probability": 1
+  },
+  {
+    "id": "card_324",
+    "probability": 1
+  },
+  {
+    "id": "card_325",
+    "probability": 1
+  },
+  {
+    "id": "card_326",
+    "probability": 1
+  },
+  {
+    "id": "card_327",
+    "probability": 1
+  },
+  {
+    "id": "card_328",
+    "probability": 0.5
+  },
+  {
+    "id": "card_329",
+    "probability": 1
+  },
+  {
+    "id": "card_330",
+    "probability": 1
+  },
+  {
+    "id": "card_331",
+    "probability": 1
+  },
+  {
+    "id": "card_332",
+    "probability": 1
+  },
+  {
+    "id": "card_333",
+    "probability": 1
+  },
+  {
+    "id": "card_334",
+    "probability": 1
+  },
+  {
+    "id": "card_335",
+    "probability": 1
+  },
+  {
+    "id": "card_336",
+    "probability": 1
+  },
+  {
+    "id": "card_337",
+    "probability": 1
+  },
+  {
+    "id": "card_338",
+    "probability": 1
+  },
+  {
+    "id": "card_339",
+    "probability": 1
+  },
+  {
+    "id": "card_340",
+    "probability": 1
+  },
+  {
+    "id": "card_341",
+    "probability": 1
+  },
+  {
+    "id": "card_342",
+    "probability": 1
+  },
+  {
+    "id": "card_343",
+    "probability": 1
+  },
+  {
+    "id": "card_344",
+    "probability": 1
+  },
+  {
+    "id": "card_345",
+    "probability": 1
+  },
+  {
+    "id": "card_346",
+    "probability": 1
+  },
+  {
+    "id": "card_347",
+    "probability": 1
+  },
+  {
+    "id": "card_348",
+    "probability": 1
+  },
+  {
+    "id": "card_349",
+    "probability": 1
+  },
+  {
+    "id": "card_350",
+    "probability": 0.5
+  },
+  {
+    "id": "card_351",
+    "probability": 1
+  },
+  {
+    "id": "card_352",
+    "probability": 1
+  },
+  {
+    "id": "card_353",
+    "probability": 1
+  },
+  {
+    "id": "card_354",
+    "probability": 1
+  },
+  {
+    "id": "card_355",
+    "probability": 1
+  },
+  {
+    "id": "card_356",
+    "probability": 1
+  },
+  {
+    "id": "card_357",
+    "probability": 1
+  },
+  {
+    "id": "card_358",
+    "probability": 1
+  },
+  {
+    "id": "card_359",
+    "probability": 1
+  },
+  {
+    "id": "card_360",
+    "probability": 1
+  },
+  {
+    "id": "card_361",
+    "probability": 1
+  },
+  {
+    "id": "card_362",
+    "probability": 1
+  },
+  {
+    "id": "card_363",
+    "probability": 1
+  },
+  {
+    "id": "card_364",
+    "probability": 1
+  },
+  {
+    "id": "card_365",
+    "probability": 1
+  },
+  {
+    "id": "card_366",
+    "probability": 1
+  },
+  {
+    "id": "card_367",
+    "probability": 1
+  },
+  {
+    "id": "card_368",
+    "probability": 1
+  },
+  {
+    "id": "card_369",
+    "probability": 1
+  },
+  {
+    "id": "card_370",
+    "probability": 1
+  },
+  {
+    "id": "card_371",
+    "probability": 1
+  },
+  {
+    "id": "card_372",
+    "probability": 1
+  },
+  {
+    "id": "card_373",
+    "probability": 1
+  },
+  {
+    "id": "card_374",
+    "probability": 1
+  },
+  {
+    "id": "card_375",
+    "probability": 1
+  },
+  {
+    "id": "card_376",
+    "probability": 1
+  },
+  {
+    "id": "card_377",
+    "probability": 1
+  },
+  {
+    "id": "card_378",
+    "probability": 1
+  },
+  {
+    "id": "card_379",
+    "probability": 1
+  },
+  {
+    "id": "card_380",
+    "probability": 1
+  },
+  {
+    "id": "card_381",
+    "probability": 0.5
+  },
+  {
+    "id": "card_382",
+    "probability": 1
+  },
+  {
+    "id": "card_383",
+    "probability": 1
+  },
+  {
+    "id": "card_384",
+    "probability": 1
+  },
+  {
+    "id": "card_385",
+    "probability": 1
+  },
+  {
+    "id": "card_386",
+    "probability": 1
+  },
+  {
+    "id": "card_387",
+    "probability": 1
+  },
+  {
+    "id": "card_388",
+    "probability": 1
+  },
+  {
+    "id": "card_389",
+    "probability": 1
+  },
+  {
+    "id": "card_390",
+    "probability": 1
+  },
+  {
+    "id": "card_391",
+    "probability": 1
+  },
+  {
+    "id": "card_392",
+    "probability": 1
+  },
+  {
+    "id": "card_393",
+    "probability": 1
+  },
+  {
+    "id": "card_394",
+    "probability": 1
+  },
+  {
+    "id": "card_395",
+    "probability": 1
+  },
+  {
+    "id": "card_396",
+    "probability": 1
+  },
+  {
+    "id": "card_397",
+    "probability": 1
+  },
+  {
+    "id": "card_398",
+    "probability": 1
+  },
+  {
+    "id": "card_399",
+    "probability": 1
+  },
+  {
+    "id": "card_400",
+    "probability": 1
+  },
+  {
+    "id": "card_401",
+    "probability": 1
+  },
+  {
+    "id": "card_402",
+    "probability": 1
+  },
+  {
+    "id": "card_403",
+    "probability": 1
+  },
+  {
+    "id": "card_404",
+    "probability": 1
+  },
+  {
+    "id": "card_405",
+    "probability": 1
+  },
+  {
+    "id": "card_406",
+    "probability": 1
+  },
+  {
+    "id": "card_407",
+    "probability": 1
+  },
+  {
+    "id": "card_408",
+    "probability": 1
+  },
+  {
+    "id": "card_409",
+    "probability": 1
+  },
+  {
+    "id": "card_410",
+    "probability": 1
+  },
+  {
+    "id": "card_411",
+    "probability": 1
+  },
+  {
+    "id": "card_412",
+    "probability": 1
+  },
+  {
+    "id": "card_413",
+    "probability": 1
+  },
+  {
+    "id": "card_414",
+    "probability": 1
+  },
+  {
+    "id": "card_415",
+    "probability": 1
+  },
+  {
+    "id": "card_416",
+    "probability": 1
+  },
+  {
+    "id": "card_417",
+    "probability": 1
+  },
+  {
+    "id": "card_418",
+    "probability": 1
+  },
+  {
+    "id": "card_419",
+    "probability": 1
+  },
+  {
+    "id": "card_420",
+    "probability": 1
+  },
+  {
+    "id": "card_421",
+    "probability": 1
+  },
+  {
+    "id": "card_422",
+    "probability": 1
+  },
+  {
+    "id": "card_423",
+    "probability": 1
+  },
+  {
+    "id": "card_424",
+    "probability": 1
+  },
+  {
+    "id": "card_425",
+    "probability": 1
+  },
+  {
+    "id": "card_426",
+    "probability": 1
+  },
+  {
+    "id": "card_427",
+    "probability": 1
+  },
+  {
+    "id": "card_428",
+    "probability": 1
+  },
+  {
+    "id": "card_429",
+    "probability": 1
+  },
+  {
+    "id": "card_430",
+    "probability": 0.12
+  },
+  {
+    "id": "card_431",
+    "probability": 0.12
+  },
+  {
+    "id": "card_432",
+    "probability": 0.12
+  },
+  {
+    "id": "card_433",
+    "probability": 0.12
+  },
+  {
+    "id": "card_434",
+    "probability": 0.12
+  },
+  {
+    "id": "card_435",
+    "probability": 0.12
+  },
+  {
+    "id": "card_436",
+    "probability": 0.12
+  },
+  {
+    "id": "card_437",
+    "probability": 0.12
+  },
+  {
+    "id": "card_438",
+    "probability": 0.12
+  },
+  {
+    "id": "card_439",
+    "probability": 0.12
+  },
+  {
+    "id": "card_440",
+    "probability": 0.12
+  },
+  {
+    "id": "card_441",
+    "probability": 0.12
+  },
+  {
+    "id": "card_442",
+    "probability": 0.12
+  },
+  {
+    "id": "card_443",
+    "probability": 0.12
+  },
+  {
+    "id": "card_444",
+    "probability": 0.12
+  },
+  {
+    "id": "card_445",
+    "probability": 0.12
+  },
+  {
+    "id": "card_446",
+    "probability": 0.12
+  },
+  {
+    "id": "card_447",
+    "probability": 0.12
+  },
+  {
+    "id": "card_448",
+    "probability": 0.12
+  },
+  {
+    "id": "card_449",
+    "probability": 0.12
+  },
+  {
+    "id": "card_450",
+    "probability": 0.05
+  },
+  {
+    "id": "card_451",
+    "probability": 0.05
+  },
+  {
+    "id": "card_452",
+    "probability": 0.05
+  },
+  {
+    "id": "card_453",
+    "probability": 0.05
+  },
+  {
+    "id": "card_454",
+    "probability": 0.05
+  },
+  {
+    "id": "card_455",
+    "probability": 0.05
+  },
+  {
+    "id": "card_456",
+    "probability": 0.05
+  },
+  {
+    "id": "card_457",
+    "probability": 0.05
+  },
+  {
+    "id": "card_458",
+    "probability": 0.05
+  },
+  {
+    "id": "card_459",
+    "probability": 0.03
+  },
+  {
+    "id": "card_460",
+    "probability": 0.03
+  },
+  {
+    "id": "card_461",
+    "probability": 0.03
+  },
+  {
+    "id": "card_462",
+    "probability": 0.03
+  },
+  {
+    "id": "card_463",
+    "probability": 0.03
+  },
+  {
+    "id": "card_464",
+    "probability": 0.03
+  },
+  {
+    "id": "card_465",
+    "probability": 0.03
+  },
+  {
+    "id": "card_466",
+    "probability": 0.03
+  },
+  {
+    "id": "card_467",
+    "probability": 0.03
+  },
+  {
+    "id": "card_468",
+    "probability": 0.03
+  },
+  {
+    "id": "card_469",
+    "probability": 0.01
+  },
+  {
+    "id": "card_470",
+    "probability": 0.01
+  },
+  {
+    "id": "card_471",
+    "probability": 0.01
+  },
+  {
+    "id": "card_472",
+    "probability": 0.01
+  },
+  {
+    "id": "card_473",
+    "probability": 0.01
+  },
+  {
+    "id": "card_474",
+    "probability": 0.01
+  },
+  {
+    "id": "card_475",
+    "probability": 0.01
+  },
+  {
+    "id": "card_476",
+    "probability": 0.01
+  },
+  {
+    "id": "card_477",
+    "probability": 0.01
+  },
+  {
+    "id": "card_478",
+    "probability": 0.01
+  },
+  {
+    "id": "card_479",
+    "probability": 0.01
+  },
+  {
+    "id": "card_480",
+    "probability": 0.01
+  },
+  {
+    "id": "card_481",
+    "probability": 0.01
+  },
+  {
+    "id": "card_482",
+    "probability": 0.01
+  },
+  {
+    "id": "card_483",
+    "probability": 0.01
+  },
+  {
+    "id": "card_484",
+    "probability": 0.01
+  },
+  {
+    "id": "card_485",
+    "probability": 0.01
+  },
+  {
+    "id": "card_486",
+    "probability": 0.001
+  }
+]
